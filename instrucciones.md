@@ -39,7 +39,7 @@ El proceso general consiste en:
 
 ### Instalación de dependencias
 
-Primero asegurate de tener instalado Python 3.9 o 3.10, luego instala la librería face_recognition:
+Primero asegurate de tener instalado Python 3.12, luego instala la librería face_recognition:
 
 
 ```
@@ -224,6 +224,5 @@ optimizada
 ```
 Informe con evidencias de cada apartado
 ```
-
 
 
